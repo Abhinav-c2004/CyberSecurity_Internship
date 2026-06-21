@@ -195,22 +195,4 @@ Final_Project_Abhinav/
 - File Handling
 - Command Line Interface (CLI)
 
----
-
-## How to Run
-
-### Clone the Repository
-
-```bash
-git clone <repository-url>
-cd Final_Project_Abhinav
-```
-
-### Run the Program
-
-```bash
-python student_security_manager.py
-```
-
----
 
