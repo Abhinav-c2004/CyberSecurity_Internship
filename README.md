@@ -1,6 +1,6 @@
 # Internship Tasks Repository
 
-This repository contains all internship assignments completed in both Python and C programming.
+This repository contains all internship assignments completed in  Python  programming.
 
 ## Tasks
 
