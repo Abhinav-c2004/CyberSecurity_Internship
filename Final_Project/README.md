@@ -120,7 +120,7 @@ Supported operations:
 ## Project Structure
 
 ```text
-Final_Project_Abhinav/
+Final_Project/
 │
 ├── student_security_manager.py
 ├── students.txt
