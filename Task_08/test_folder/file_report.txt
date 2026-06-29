@@ -1,0 +1,31 @@
+SMART FILE ORGANIZER REPORT
+========================================
+
+Date : 26-06-2026 15:13:34
+Folder : test_folder
+
+Total Files : 15
+
+Category-wise Count
+-------------------------
+Images         2
+Documents      5
+Videos         3
+Audio          2
+Archives       2
+Programs       0
+Others         1
+
+Duplicate Files
+-------------------------
+No Duplicate Files Found
+
+Folder Structure
+-------------------------
+Archives
+Audio
+Documents
+Images
+Others
+Programs
+Videos
