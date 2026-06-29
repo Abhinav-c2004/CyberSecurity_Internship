@@ -9,7 +9,9 @@ This repository contains all internship assignments completed in  Python  progra
 - Task_3
 - Task_4
 - Task_5
-- Final_Project - Student Cyber Security Management System
+- Final_Project - Student Cyber Security Management System (Task_6)
+- Task_07
+- Task_08
 
 Each task contains:
 - Python Implementation
